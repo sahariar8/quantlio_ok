@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700,800&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.font-light {
+  font-weight: 300;
+}
+p{
+	font-family: 'Open Sans', sans-serif !important;
+}
+.font-normal {
+  font-weight: 400;
+}
+.font-bold {
+  font-weight: 700;
+}
+.font-xbold {
+  font-weight: 800;
+}
+
+.color-blue {
+	color: #084ba0;
+}
+.color-red {
+	color: #ff1616;
+}
+.color-green {
+	color: #169d53;
+}
+.color-black {
+	color: #000000;
+}
+
+.bg-blue {
+	background-color: #084ba0;
+}
+.bg-red {
+	background-color: #ff1616;
+}
+.bg-green {
+	background-color: #169d53;
+}
+.bg-black {
+	background-color: #000000;
+}
+
+.border-gray {
+	border-color: #d9d9d9!important;
+}
+.border-blue {
+	border-color: #084ba0!important;
+}
+.border-red{
+	border-color: #ff1616!important;
+}
+.border-green{
+	border-color: #169d53!important;
+}
+.border-black {
+	border-color: #000000!important;
+}
